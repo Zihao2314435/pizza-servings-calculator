@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author zihao
+ * @author ZL
  */
 public class PizzaServingsCalculator {
 
