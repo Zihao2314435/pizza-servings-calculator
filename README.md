@@ -11,7 +11,6 @@ Developed as part of Penn State's CMPSC 221 coursework, the project demonstrates
 ## Features
 
 - Select pizza size
-- Enter the number of pizzas
 - Calculate total servings
 - Interactive graphical user interface
 - Display calculated results
